@@ -105,24 +105,5 @@ As a **self-taught Senior IT Consultant & Full-Stack Developer**, I find my crea
 
 <hr>
 
-### :zap: CodersRank.io Stats ❤️ 
-
-[![scryba's CodersRank summary](https://cr-widget.azurewebsites.net/api/widget/summary/scryba)](https://profile.codersrank.io/user/scryba)
-
-[![scryba's CodersRank summary](https://cr-widget.azurewebsites.net/api/widget/summary/scryba)](https://profile.codersrank.io/user/scryba)
-
-
-<hr>
-
-<h2>🏆 Github Stats</h2>
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=klytron&theme=radical&show_icons=true" alt="Klytron's Github Stats" width="75%"/><br />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=klytron&theme=dark" width="75%"><br />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=klytron&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="75%">
-</p>
-
-<hr>
-
  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Grunt status">
  
